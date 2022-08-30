@@ -2,7 +2,7 @@
   <mj-body background-color="#fafafa">
     <mj-section>
       <mj-column>
-        <mj-image width="141px" src="/assets/images/Logo.png"></mj-image>
+        <mj-image width="141px" src="../assets/images/Logo.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff">
@@ -90,25 +90,25 @@
           <mj-social-element
             padding="0px 8px"
             href="https://www.instagram.com/majoo.indonesia"
-            src="/assets/icons/Instagram.svg"
+            src="../assets/icons/Instagram.svg"
           ></mj-social-element>
 
           <mj-social-element
             padding="0px 8px"
             href="https://twitter.com/majooindonesia"
-            src="/assets/icons/Twitter.svg"
+            src="../assets/icons/Twitter.svg"
           ></mj-social-element>
 
           <mj-social-element
             padding="0px 8px"
             href="https://www.facebook.com/revolusimajoo"
-            src="/assets/icons/Facebook.svg"
+            src="../assets/icons/Facebook.svg"
           ></mj-social-element>
 
           <mj-social-element
             padding="0px 8px"
             href="https://www.youtube.com/c/majooIndonesia"
-            src="/assets/icons/Youtube.svg"
+            src="../assets/icons/Youtube.svg"
           ></mj-social-element> </mj-social
       ></mj-column>
     </mj-section>
