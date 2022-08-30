@@ -1,0 +1,129 @@
+<mjml>
+  <mj-body background-color="#fafafa">
+    <mj-section>
+      <mj-column>
+        <mj-image width="141px" src="/assets/images/Logo.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text
+          font-size="16px"
+          font-weight="600"
+          font-family="sans-serif, Arial, Helvetica"
+          color="#272A2A"
+          padding-bottom="16px"
+          >Kode Verifikasi</mj-text
+        >
+        <mj-text
+          font-size="14px"
+          font-weight="400"
+          font-family="sans-serif, Arial, Helvetica"
+          color="#272A2A"
+          padding-top="0px"
+          padding-bottom="16px"
+          >Hi majoopreneurs, Selamat Siang!</mj-text
+        >
+        <mj-text
+          font-size="16px"
+          font-weight="400"
+          font-family="sans-serif, Arial, Helvetica"
+          color="#272A2A"
+          padding-top="0px"
+          padding-bottom="16px"
+          >Sudah siap majoo-kan bisnismu? Tinggal beberapa langkah lagi, kamu
+          bisa menikmati segala fitur yang ada di majoo. Dalam proses
+          registrasi, kamu membutuhkan kode verifikasi berikut:</mj-text
+        >
+        <mj-text
+          font-size="24px"
+          font-weight="600"
+          font-family="sans-serif, Arial, Helvetica"
+          color="#272A2A"
+          padding-top="0px"
+          padding-bottom="16px"
+          >6789</mj-text
+        >
+        <mj-text
+          font-size="14px"
+          font-weight="400"
+          font-family="sans-serif, Arial, Helvetica"
+          color="#272A2A"
+          padding-top="0px"
+          padding-bottom="16px"
+          >Masukkan kode tersebut, dan selesaikan proses registrasimu, agar kami
+          bisa membantumu untuk me-#langkahmajoo!</mj-text
+        >
+        <mj-text
+          font-size="14px"
+          font-weight="400"
+          font-family="sans-serif, Arial, Helvetica"
+          color="#272A2A"
+          >Terima kasih,</mj-text
+        >
+        <mj-text
+          font-size="14px"
+          font-weight="600"
+          font-family="sans-serif, Arial, Helvetica"
+          color="#272A2A"
+          padding-top="0px"
+          >majoo support bisnismu</mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="26px" padding-bottom="40px">
+      <mj-column>
+        <mj-text
+          font-size="14px"
+          font-weight="400"
+          font-family="sans-serif, Arial, Helvetica"
+          color="#717A7A"
+          align="center"
+          >Pertanyaan? Hubungi kami di
+          <span style="color: #04c99e">help@majoo.id</span></mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px">
+      <mj-column>
+        <mj-social mode="horizontal" icon-size="24px">
+          <mj-social-element
+            padding="0px 8px"
+            href="https://www.instagram.com/majoo.indonesia"
+            src="/assets/icons/Instagram.svg"
+          ></mj-social-element>
+
+          <mj-social-element
+            padding="0px 8px"
+            href="https://twitter.com/majooindonesia"
+            src="/assets/icons/Twitter.svg"
+          ></mj-social-element>
+
+          <mj-social-element
+            padding="0px 8px"
+            href="https://www.facebook.com/revolusimajoo"
+            src="/assets/icons/Facebook.svg"
+          ></mj-social-element>
+
+          <mj-social-element
+            padding="0px 8px"
+            href="https://www.youtube.com/c/majooIndonesia"
+            src="/assets/icons/Youtube.svg"
+          ></mj-social-element> </mj-social
+      ></mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px">
+      <mj-column>
+        <mj-text
+          font-size="14px"
+          font-weight="400"
+          font-family="sans-serif, Arial, Helvetica"
+          color="#717A7A"
+          align="center"
+          padding-top="20px"
+          >© PT. Majoo Teknologi Indonesia. All right reserved</mj-text
+        >
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
