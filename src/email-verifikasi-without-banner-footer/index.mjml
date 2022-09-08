@@ -1,0 +1,70 @@
+<mjml>
+  <mj-body>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text
+          font-size="16px"
+          font-weight="600"
+          font-family="sans-serif, Arial, Helvetica"
+          color="#272A2A"
+          padding-bottom="16px"
+          >Kode Verifikasi</mj-text
+        >
+        <mj-text
+          font-size="14px"
+          font-weight="400"
+          font-family="sans-serif, Arial, Helvetica"
+          color="#272A2A"
+          padding-top="0px"
+          padding-bottom="16px"
+          >Hi majoopreneurs, Selamat Siang!</mj-text
+        >
+        <mj-text
+          font-size="16px"
+          font-weight="400"
+          font-family="sans-serif, Arial, Helvetica"
+          color="#272A2A"
+          padding-top="0px"
+          padding-bottom="16px"
+          >Sudah siap majoo-kan bisnismu? Tinggal beberapa langkah lagi, kamu
+          bisa menikmati segala fitur yang ada di majoo. Dalam proses
+          registrasi, kamu membutuhkan kode verifikasi berikut:</mj-text
+        >
+        <mj-text
+          font-size="24px"
+          font-weight="600"
+          font-family="sans-serif, Arial, Helvetica"
+          color="#272A2A"
+          padding-top="0px"
+          padding-bottom="16px"
+          >6789</mj-text
+        >
+        <mj-text
+          font-size="14px"
+          font-weight="400"
+          font-family="sans-serif, Arial, Helvetica"
+          color="#272A2A"
+          padding-top="0px"
+          padding-bottom="16px"
+          >Masukkan kode tersebut, dan selesaikan proses registrasimu, agar kami
+          bisa membantumu untuk me-#langkahmajoo!</mj-text
+        >
+        <mj-text
+          font-size="14px"
+          font-weight="400"
+          font-family="sans-serif, Arial, Helvetica"
+          color="#272A2A"
+          >Terima kasih,</mj-text
+        >
+        <mj-text
+          font-size="14px"
+          font-weight="600"
+          font-family="sans-serif, Arial, Helvetica"
+          color="#272A2A"
+          padding-top="0px"
+          >majoo support bisnismu</mj-text
+        >
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
