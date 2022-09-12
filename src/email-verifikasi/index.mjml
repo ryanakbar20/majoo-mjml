@@ -31,6 +31,7 @@
           color="#272A2A"
           padding-top="0px"
           padding-bottom="16px"
+          line-height="20px"
           >Sudah siap majoo-kan bisnismu? Tinggal beberapa langkah lagi, kamu
           bisa menikmati segala fitur yang ada di majoo. Dalam proses
           registrasi, kamu membutuhkan kode verifikasi berikut:</mj-text
@@ -51,6 +52,7 @@
           color="#272A2A"
           padding-top="0px"
           padding-bottom="16px"
+          line-height="20px"
           >Masukkan kode tersebut, dan selesaikan proses registrasimu, agar kami
           bisa membantumu untuk me-#langkahmajoo!</mj-text
         >
