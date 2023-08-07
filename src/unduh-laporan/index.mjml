@@ -1,0 +1,79 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      @media (max-width:480px) { .card-content table { border-radius: 8px
+      !important; box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.07), 0px 2px 4px
+      rgba(0, 0, 0, 0.05), 0px 4px 10px rgba(0, 0, 0, 0.05) !important; } }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-section>
+      <mj-column css-class="card-content" background-color="#ffffff">
+        <mj-text
+          font-size="16px"
+          font-weight="600"
+          font-family="sans-serif, Arial, Helvetica"
+          color="#272A2A"
+          padding-bottom="18px"
+          >File [Nama Laporan] Siap Untuk Diunduh</mj-text
+        >
+        <mj-text
+          font-size="16px"
+          font-weight="400"
+          font-family="sans-serif, Arial, Helvetica"
+          color="#272A2A"
+          padding-top="0px"
+          padding-bottom="18px"
+          line-height="20px"
+          >Hi majoopreneurs,</mj-text
+        >
+        <mj-text
+          font-size="16px"
+          font-weight="400"
+          font-family="sans-serif, Arial, Helvetica"
+          color="#272A2A"
+          padding-top="0px"
+          padding-bottom="18px"
+          line-height="20px"
+          >Anda menerima notifikasi ini karena permintaan ekspor Anda untuk
+          <span style="font-weight: bold">[Nama Laporan]</span> sudah siap untuk
+          diunduh.</mj-text
+        >
+        <mj-text
+          font-size="14px"
+          font-weight="400"
+          font-family="sans-serif, Arial, Helvetica"
+          color="#DF2A36"
+          padding-top="0px"
+          padding-bottom="30px"
+          line-height="20px"
+          >Catatan: File hanya dapat diunduh dalam kurun waktu maksimal 1 jam
+          (15:00 WIB).</mj-text
+        >
+        <mj-button
+          background-color="#04C99E"
+          font-size="16px"
+          width="100%"
+          href="#"
+          >Unduh Laporan</mj-button
+        >
+        <mj-text
+          font-size="14px"
+          font-weight="400"
+          font-family="sans-serif, Arial, Helvetica"
+          color="#272A2A"
+          padding-top="30px"
+          >Terima kasih,</mj-text
+        >
+        <mj-text
+          font-size="14px"
+          font-weight="600"
+          font-family="sans-serif, Arial, Helvetica"
+          color="#272A2A"
+          padding-top="0px"
+          >majoo support bisnismu</mj-text
+        >
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
