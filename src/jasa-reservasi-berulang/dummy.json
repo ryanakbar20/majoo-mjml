@@ -1,0 +1,60 @@
+{
+    "template_data": {
+        "title": "Pembuatan Reservasi Berulang",
+        "description": "Reservasi kamu telah dikonfirmasi. Lihat informasi pesanan kamu di bawah ini.",
+        "recipient": "Delia Aruna",
+        "reservation": [
+            {
+                "title": "Tanggal Dibuat",
+                "value": ["22 November 2023"]
+            },
+            {
+                "title": "Informasi Reservasi Berulang",
+                "value": [
+                    "Berulang setiap minggu, hari Kamis dan Sabtu",
+                    "Berakhir pada 5 Januari 2024"
+                ]
+            },
+            {
+                "title": "Waktu Reservasi",
+                "value": [
+                    "09:00 - 09:30 Potong Rambut",
+                    "09:30 - 12:00 Body Treatment and Spa Beautiful",
+                    "13:00 - 16:00 Hair Coloring"
+                ]
+            }
+        ],
+        "change_information": {
+            "reservation_time": [
+                {
+                    "new_value": "09:00 - 09:30 Potong Rambut",
+                    "old_value": "09:00 - 10:00 Potong Rambut"
+                },
+                {
+                    "new_value": "11:00 - 11:30 Beli Kopi",
+                    "old_value": "11:00 - 12:00 Beli Kopi"
+                }
+            ],
+            "total_bill": {
+                "new_bill": "Rp 740.000",
+                "old_bill": "Rp 500.000"
+            }
+        },
+        "reservation_detail": {
+            "title": "Informasi Reservasi Berulang",
+            "reservation_list": [
+                {
+                    "title": "29 November 2023",
+                    "value": "Reservasi-RS291120230002",
+                    "url": "https://majoo.id"
+                },
+                {
+                    "title": "5 Desember 2023",
+                    "value": "Reservasi-RS291120230001",
+                    "url": "https://majoo.id"
+                }
+            ]
+        },
+        "order_detail_url": "https://majoo.id"
+    }
+}

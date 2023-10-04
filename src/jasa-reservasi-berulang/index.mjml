@@ -1,0 +1,188 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      @media (max-width:480px) { .card-content table { border-radius: 8px
+      !important; box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.07), 0px 2px 4px
+      rgba(0, 0, 0, 0.05), 0px 4px 10px rgba(0, 0, 0, 0.05) !important; } }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#F2F2F2">
+   <mj-section>
+      <mj-column>
+        <mj-image width="141px" src="../assets/images/Logo.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text
+          font-size="16px"
+          font-weight="600"
+          font-family="sans-serif, Arial, Helvetica"
+          color="#272A2A"
+          padding-bottom="40px"
+          >Pembuatan Reservasi Berulang</mj-text
+        >
+        <mj-text
+          font-size="16px"
+          font-weight="400"
+          font-family="sans-serif, Arial, Helvetica"
+          color="#272A2A"
+          padding-top="0px"
+          padding-bottom="14px"
+          line-height="20px"
+          >Hi <span style="font-weight: bold">Delia Aruna</span>,</mj-text
+        >
+        <mj-text
+          font-size="16px"
+          font-weight="400"
+          font-family="sans-serif, Arial, Helvetica"
+          color="#272A2A"
+          padding-top="0px"
+          line-height="20px"
+          >Reservasi kamu telah dikonfirmasi. Lihat informasi pesanan kamu di bawah ini.</mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+       <mj-column>
+            <mj-table>
+                <tr style="vertical-align: top; background-color: #F8FAFA; border-bottom: 1px solid #ECEFF1;">
+                    <td style="padding: 10px 15px;">Tanggal Dibuat</td>
+                    <td style="padding: 10px 15px;">22 November 2023</td>
+                </tr>
+                <tr style="vertical-align: top; background-color: #F8FAFA; border-bottom: 1px solid #ECEFF1;">
+                    <td style="padding: 10px 15px;">Informasi Reservasi Berulang</td>
+                    <td style="padding: 10px 15px;">
+                      <mj-column style="display: flex; flex-direction: column;">
+                        <mj-text style="border-bottom: 1px solid #ECEFF1; padding-top: 10px; padding-bottom: 10px">Berulang setiap minggu, hari Kamis dan Sabtu</mj-text>
+                        <mj-text style="border-bottom: 1px solid #ECEFF1; padding-top: 10px; padding-bottom: 10px">Berakhir pada 5 Januari 2024</mj-text>
+                      </mj-column>
+                    </td>
+                </tr>
+                <tr style="vertical-align: top; background-color: #F8FAFA; border-bottom: 1px solid #ECEFF1;">
+                    <td style="padding: 10px 15px;">Waktu Reservasi</td>
+                    <td style="padding: 10px 15px;">
+                      <mj-column style="display: flex; flex-direction: column;">
+                        <mj-text style="border-bottom: 1px solid #ECEFF1; padding-top: 10px; padding-bottom: 10px">
+                            09:00 - 09:30 Potong Rambut
+                        </mj-text>
+                        <mj-text style="border-bottom: 1px solid #ECEFF1; padding-top: 10px; padding-bottom: 10px">
+                            09:30 - 12:00 Body Treatment and Spa Beautiful
+                        </mj-text>
+                        <mj-text style="border-bottom: 1px solid #ECEFF1; padding-top: 10px; padding-bottom: 10px">
+                            13:00 - 16:00 Hair Coloring
+                        </mj-text>
+                      </mj-column>
+                    </td>
+                </tr>
+            </mj-table>
+       </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+       <mj-column>
+            <mj-text
+              font-size="16px"
+              font-weight="600"
+              font-family="sans-serif, Arial, Helvetica"
+              color="#272A2A"
+              padding-bottom="40px"
+            >
+              Perubahan Informasi Layanan
+            </mj-text>
+            <mj-table>
+                <tr style="vertical-align: top; background-color: #F8FAFA; border-bottom: 1px solid #ECEFF1;">
+                    <td style="padding: 10px 15px;">Waktu Reservasi</td>
+                    <td style="padding: 10px 15px;">
+                      <mj-column style="display: flex; flex-direction: column;">
+                        <mj-column style="display: flex; flex-direction: column; border-bottom: 1px solid #ECEFF1; padding-top: 10px; padding-bottom: 10px">
+                          <mj-text>
+                                09:00 - 09:30 Potong Rambut
+                          </mj-text>
+                          <mj-text style="text-decoration: line-through; color: #58788A;">
+                                09:00 - 10:00 Potong Rambut
+                          </mj-text>
+                        </mj-column>
+                        <mj-column style="display: flex; flex-direction: column; border-bottom: 1px solid #ECEFF1; padding-top: 10px; padding-bottom: 10px">
+                          <mj-text>
+                                11:00 - 11:30 Beli Kopi
+                          </mj-text>
+                          <mj-text style="text-decoration: line-through; color: #58788A;">
+                                11:00 - 12:00 Beli Kopi
+                          </mj-text>
+                        </mj-column>
+                      </mj-column>
+                    </td>
+                </tr>
+                <tr style="vertical-align: top; background-color: #F8FAFA; border-bottom: 1px solid #ECEFF1;">
+                    <td style="padding: 10px 15px;">Waktu Reservasi</td>
+                    <td style="padding: 10px 15px;">
+                      <mj-text style="font-weight: bold;">
+                        Rp 740.000
+                      </mj-text>
+                      <mj-text style="font-weight: bold; text-decoration: line-through;">
+                        (Rp 500.000)
+                      </mj-text>
+                    </td>
+                </tr>
+            </mj-table>
+       </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+       <mj-column>
+            <mj-text
+                font-size="16px"
+                font-weight="600"
+                font-family="sans-serif, Arial, Helvetica"
+                color="#272A2A"
+                padding-bottom="40px"
+            >
+                Informasi Reservasi Berulang
+            </mj-text>
+            <mj-text
+                font-size="16px"
+                font-weight="400"
+                font-family="sans-serif, Arial, Helvetica"
+                color="#272A2A"
+                padding-top="0px"
+                line-height="20px"
+            >
+                Kamu dapat melihat detail reservasi pada setiap tanggalnya dengan klik link pada informasi berikut ini :
+            </mj-text>
+            <mj-table>
+                <tr style="vertical-align: top; background-color: #F8FAFA; border-bottom: 1px solid #ECEFF1;">
+                    <td style="padding: 10px 15px;">29 November 2023</td>
+                    <td style="padding: 10px 15px;">
+                      <a style="text-decoration: none; color: black;" href="https://majoo.id">Reservasi-RS291120230002</a>
+                    </td>
+                </tr>
+                <tr style="vertical-align: top; background-color: #F8FAFA; border-bottom: 1px solid #ECEFF1;">
+                    <td style="padding: 10px 15px;">5 Desember 2023</td>
+                    <td style="padding: 10px 15px;">
+                      <a style="text-decoration: none; color: black;" href="https://majoo.id">Reservasi-RS291120230001</a>
+                    </td>
+                </tr>
+            </mj-table>
+       </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+       <mj-column>
+            <mj-table>
+                <tr style="background-color: #E6F8F9;">
+                    <td style="padding: 10px 15px;">
+                        <mj-text
+                            font-size="16px"
+                            font-weight="400"
+                            font-family="sans-serif, Arial, Helvetica"
+                            color="#272A2A"
+                            padding-top="0px"
+                            line-height="20px"
+                        >
+                            Temukan lampiran detail pesanan kamu yang lain dengan klik tautan <a href="https://majoo.id" style="color: #00B7B5;">link berikut ini.</a>
+                        </mj-text>
+                    </td>
+                </tr>
+            </mj-table>
+       </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
